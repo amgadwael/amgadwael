@@ -1,4 +1,4 @@
-# Hi there, I'm Amgad torky! 👋🚀
+# Hi there, I'm Amgad Torky! 👋🚀
 
 ### 👨‍💻 Full-Stack Web & Mobile Developer | Software Engineer
 I love building impactful, scalable, and user-friendly applications from scratch. Passionate about clean code, modern UI/UX, and turning innovative ideas into real-world digital products!
@@ -32,5 +32,6 @@ I love building impactful, scalable, and user-friendly applications from scratch
 ---
 
 ### 📫 How to reach me:
-* 💼 **LinkedIn:** [Amgad Wael](https://linkedin.com) *(حط لينك حسابك هنا)*
-* 📧 **Email:** *your.email@example.com* *(حط ايميلك هنا)*
+* 💼 **LinkedIn:** [Amgad Torky](https://www.linkedin.com/in/amgad-torky-75202005torky)
+* 📧 **Email:** [amgadwael2005@gmail.com](mailto:amgadwael2005@gmail.com)
+* 📱 **Phone / WhatsApp:** [+20 105 004 9085](https://wa.me/201050049085)
